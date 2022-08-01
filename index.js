@@ -16,4 +16,4 @@ require("fs").readdir("./handlers", (err, files) => {
   console.log("Registered events!");
 });
 
-client.login("OTU1Njg3OTk1MDQ5MTE1NjQ5.YjlTzQ.ShiO1XLK6jgZv9Q3jfxNOvmpvA4");
+client.login("token");
